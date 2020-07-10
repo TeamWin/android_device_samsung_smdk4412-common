@@ -16,6 +16,12 @@
 
 DEVICE_PATH := device/samsung/smdk4412-common
 
+#RECOVERY_VARIANT := twrp
+#TW_THEME := landscape_mdpi
+#WITH_TWRP := true
+#WITH_BUSYBOX := true
+#WITH_SU := true
+
 # This variable is set first, so it can be overridden
 # by BoardConfigVendor.mk
 USE_CAMERA_STUB := false
