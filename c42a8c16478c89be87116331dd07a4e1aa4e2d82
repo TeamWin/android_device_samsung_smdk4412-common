@@ -16,6 +16,23 @@
       "message": "Now we use the internal TWRP logic to improve the layout for these devices.\n",
       "revId": "c42a8c16478c89be87116331dd07a4e1aa4e2d82",
       "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "280d9aea_e1be53fa",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1
+      },
+      "writtenOn": "2021-02-15T18:48:50Z",
+      "side": 1,
+      "message": "You should be able to merge to this project. Please let me know if this isn\u0027t the case.",
+      "revId": "c42a8c16478c89be87116331dd07a4e1aa4e2d82",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
     }
   ]
 }
