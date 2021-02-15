@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f9058493_dcbc60d8",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 628
+      },
+      "writtenOn": "2021-02-15T18:06:59Z",
+      "side": 1,
+      "message": "Now we use the internal TWRP logic to improve the layout for these devices.\n",
+      "revId": "c42a8c16478c89be87116331dd07a4e1aa4e2d82",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    }
+  ]
+}
