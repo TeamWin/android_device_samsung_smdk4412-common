@@ -33,6 +33,23 @@
       "message": "You should be able to merge to this project. Please let me know if this isn\u0027t the case.",
       "revId": "c42a8c16478c89be87116331dd07a4e1aa4e2d82",
       "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "b8bfd43a_b750ecc6",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 628
+      },
+      "writtenOn": "2021-02-16T10:27:38Z",
+      "side": 1,
+      "message": "I\u0027m not sure if this is now the correct branch, we were using branch twrp before.\nOtherwise could you give me access to the twrp branch?\nThen I will push it again.",
+      "revId": "c42a8c16478c89be87116331dd07a4e1aa4e2d82",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
     }
   ]
 }
