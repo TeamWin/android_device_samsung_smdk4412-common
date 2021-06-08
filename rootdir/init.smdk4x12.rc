@@ -13,7 +13,7 @@ on init
     symlink /efs /factory
 
 on fs
-    mkdir /preload
+    mkdir /vendor
     mount_all /fstab.smdk4x12
 
     chown radio system /efs
