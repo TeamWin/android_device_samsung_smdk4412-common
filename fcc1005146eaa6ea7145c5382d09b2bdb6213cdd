@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "ec8ca770_aaeb7548",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 628
+      },
+      "writtenOn": "2021-06-09T06:38:10Z",
+      "side": 1,
+      "message": "Hi, \nI don\u0027t know why but this change didn\u0027t get merged in\nhttps://github.com/TeamWin/android_device_samsung_smdk4412-common/tree/twrp\n",
+      "revId": "fcc1005146eaa6ea7145c5382d09b2bdb6213cdd",
+      "serverId": "9c1c7d72-6534-4d44-b0ea-39f63e804833"
+    }
+  ]
+}
