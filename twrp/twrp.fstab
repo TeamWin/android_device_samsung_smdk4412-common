@@ -5,7 +5,7 @@
 /cache                  ext4            /dev/block/platform/dw_mmc/by-name/CACHE	flags=display="Cache";backup=1
 /system                 ext4            /dev/block/platform/dw_mmc/by-name/SYSTEM	flags=display="System";backup=1
 /vendor                 ext4            /dev/block/platform/dw_mmc/by-name/HIDDEN	flags=display="Vendor";backup=1;wipeingui;
-/data                   ext4            /dev/block/platform/dw_mmc/by-name/USERDATA	length=-32768	flags=backup=1
+/data                   ext4            /dev/block/platform/dw_mmc/by-name/USERDATA	flags=encryptable=footer;length=-16384;backup=1
 /misc                   emmc            /dev/block/platform/dw_mmc/by-name/OTA
 /external_sdcard	vfat		/dev/block/mmcblk1p1	/dev/block/mmcblk1	flags=display="Micro SDCard";storage;wipeingui;removable
 /usb-otg		vfat		/dev/block/sda1		/dev/block/sda		flags=display="USB-OTG";storage;wipeingui;removable
